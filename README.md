@@ -8,7 +8,7 @@
 ### My Social Media
 <span>
   <a href="https://www.instagram.com/fadhlan.moch26/">
-    <img src="https://img.shields.io/badge/-My%20Instagram-E4405F?logo=instagram&logoColor=fff">
+    <img src="https://img.shields.io/badge/-My%20Instagram-E4405F?logo=instagram&logoColor=fff" style="width:200px;height:200px;">
   <a>
 </span>
 
