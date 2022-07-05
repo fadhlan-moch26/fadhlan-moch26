@@ -10,6 +10,12 @@
   <a href="https://www.instagram.com/fadhlan.moch26/">
     <img src="https://img.shields.io/badge/-My%20Instagram-E4405F?logo=instagram&logoColor=fff" style="width:100px;height:40px;">
   <a>
+  <a href="https://www.linkedin.com/in/fadhlan-mochamad-daffa-richtman-047844201/">
+    <img src="https://img.shields.io/badge/-My%20Linkedin-0A66C2?logo=linkedin&logoColor=fff" style="width:100px;height:40px;">
+  <a>
+  <a href="https://github.com/fadhlan-moch26">
+    <img src="https://img.shields.io/badge/-My%20Github-181717?logo=github&logoColor=fff" style="width:100px;height:40px;">
+  <a>
 </span>
 
 ### Most Languages Used
