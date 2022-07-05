@@ -1,7 +1,5 @@
 ### Hi My Name Is Fadhlan Mochamad Daffa Richtman 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently currently an undergraduate student on Telkom University
 - 🌱 I’m currently learning about Beego Framework and Odoo
 - :open_file_folder: You guys can see all my project creted in this github!
