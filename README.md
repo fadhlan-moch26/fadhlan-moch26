@@ -5,6 +5,13 @@
 - :open_file_folder: You guys can see all my project creted in this github!
 - :envelope: How to reach me fadhlan.moch26@gmail.com
 
+### My Social Media
+<span>
+  <a href="https://www.instagram.com/fadhlan.moch26/">
+    <img src="https://img.shields.io/badge/-My%20Instagram-E4405F?logo=instagram&logoColor=fff">
+  <a>
+</span>
+
 ### Most Languages Used
 <span>
   <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
