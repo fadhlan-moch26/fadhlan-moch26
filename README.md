@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning about Beego Framework and Odoo
 - :open_file_folder: You guys can see all my project creted in this github!
 - :envelope: How to reach me fadhlan.moch26@gmail.com
+
+![Github_Stats](https://github-readme-stats.vercel.app/api?username=fadhlan-moch26&count_private=true&show_icons=true&theme=radical)
