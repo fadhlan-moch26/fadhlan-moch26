@@ -5,4 +5,8 @@
 - :open_file_folder: You guys can see all my project creted in this github!
 - :envelope: How to reach me fadhlan.moch26@gmail.com
 
+### Most Languages Used
+![Most_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlan-moch26&show_icons=true&theme=radical)
+
+### Stats
 ![Github_Stats](https://github-readme-stats.vercel.app/api?username=fadhlan-moch26&count_private=true&show_icons=true&theme=radical)
