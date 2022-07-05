@@ -6,7 +6,7 @@
 - :envelope: How to reach me fadhlan.moch26@gmail.com
 
 ### Most Languages Used
-![Most_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlan-moch26&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 
 ### Stats
 ![Github_Stats](https://github-readme-stats.vercel.app/api?username=fadhlan-moch26&count_private=true&show_icons=true&theme=radical)
